@@ -1,3 +1,14 @@
+/*
+* FILE: m2.cpp
+* PROJECT: SENG1000 - Major Assignment 2
+* PROGRAMMER: Virajsinh Dharmendrasinh Solanki
+* FIRST VERSION: 2024-02-6
+* student id: 8981864
+* DESCRIPTION: This program is used to create a menu which
+*			   is used to get the base and exponent from the
+*			   user and the program can even display the output
+*			   depending upon the users choice.
+*/
 
 #include <stdio.h>
 int getNum(void);
